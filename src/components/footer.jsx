@@ -10,12 +10,12 @@ const Footer = () => {
                             </h4>
                             <ul>
                                 <li>
-                                    <a href="./pages/empresa.html">
+                                    <a href={"/"}>
                                         FAQ
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="./pages/contacto.html">
+                                    <a href={"/"}>
                                         Contactanos
                                     </a>
                                 </li>
@@ -26,7 +26,7 @@ const Footer = () => {
                                 Shop online
                             </h4>
                             <ul>
-                                <li><a href="#">
+                                <li><a href={"/"}>
                                     mercado Libre
                                 </a>
                                 </li>
@@ -34,13 +34,13 @@ const Footer = () => {
                         </div>
                         <div class="footer-col">
                             <h4>
-                                Seguinos en nuestras redes
+                                ¡ Seguinos en nuestras redes sociales !
                             </h4>
                             <div class="social-links">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
-                                <a href="#"><i class="fab fa-youtube"></i></a>
+                                <a href={"/"}><i class="fab fa-facebook-f"></i></a>
+                                <a href={"/"}><i class="fab fa-twitter"></i></a>
+                                <a href={"/"}><i class="fab fa-instagram"></i></a>
+                                <a href={"/"}><i class="fab fa-youtube"></i></a>
                             </div>
                         </div>
                     </div>
